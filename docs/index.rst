@@ -12,3 +12,4 @@ A small public documentation set for home project planning notes.
    grand-prairie-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    irving-tx-vinyl-flooring-installation-cost-guide
    irving-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+   frisco-tx-vinyl-flooring-installation-cost-guide
