@@ -16,3 +16,4 @@ A small public documentation set for home project planning notes.
    frisco-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    highland-park-tx-vinyl-flooring-installation-cost-guide
    highland-park-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+   sachse-tx-vinyl-flooring-installation-cost-guide
