@@ -8,7 +8,7 @@ Para pisos vinilicos, el contexto local importa porque el tamano de la vivienda,
 Recurso principal
 -----------------
 
-Revise `Sachse costo de instalacion de pisos vinilicos <https://flooramigo.com/sachse-tx/vinyl-flooring-installation-cost/?lang=es>`_ para entender variables de mano de obra, preparacion, retiro de piso anterior, molduras, transiciones y calendario. Despues use la `calculadora de pisos vinilicos en Sachse <https://flooramigo.com/sachse-tx/calculadora-de-pisos-vinilicos/>`_ para estimar habitaciones, medidas y rangos de costo con el mismo alcance.
+Revise `Sachse costo de instalacion de pisos vinilicos <https://flooramigo.com/sachse-tx/costo-de-instalacion-de-pisos-vinilicos/>`_ para entender variables de mano de obra, preparacion, retiro de piso anterior, molduras, transiciones y calendario. Despues use la `calculadora de pisos vinilicos en Sachse <https://flooramigo.com/sachse-tx/calculadora-de-pisos-vinilicos/>`_ para estimar habitaciones, medidas y rangos de costo con el mismo alcance.
 
 Lo que hace diferente a este mercado
 ------------------------------------
