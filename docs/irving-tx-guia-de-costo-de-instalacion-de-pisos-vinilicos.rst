@@ -3,7 +3,7 @@ Irving, TX: guia de costo de instalacion de pisos vinilicos
 
 This documentation note is for homeowners comparing local project variables before requesting flooring quotes.
 
-Use `costo local de pisos vinilicos en Irving <https://flooramigo.com/irving-tx/vinyl-flooring-installation-cost/?lang=es>`__ to review installation cost drivers for this market.
+Use `costo local de pisos vinilicos en Irving <https://flooramigo.com/irving-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ to review installation cost drivers for this market.
 Related planning link: `calculadora de pisos vinilicos <https://flooramigo.com/irving-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local planning context

@@ -3,7 +3,7 @@ Highland Park, TX: guia de costo de instalacion de pisos vinilicos
 
 This documentation note is for homeowners comparing local project variables before requesting flooring quotes.
 
-Use `costo local de pisos vinilicos en Highland Park <https://flooramigo.com/highland-park-tx/vinyl-flooring-installation-cost/?lang=es>`__ to review installation cost drivers for this market.
+Use `costo local de pisos vinilicos en Highland Park <https://flooramigo.com/highland-park-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ to review installation cost drivers for this market.
 Related planning link: `calculadora de pisos vinilicos <https://flooramigo.com/highland-park-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local planning context

@@ -3,7 +3,7 @@ Frisco, TX: guia de costo de instalacion de pisos vinilicos
 
 This documentation note is for homeowners comparing local project variables before requesting flooring quotes.
 
-Use `costo de instalacion de pisos vinilicos en Frisco <https://flooramigo.com/frisco-tx/vinyl-flooring-installation-cost/?lang=es>`__ to review installation cost drivers for this market.
+Use `costo de instalacion de pisos vinilicos en Frisco <https://flooramigo.com/frisco-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ to review installation cost drivers for this market.
 Related planning link: `calculadora de pisos vinilicos <https://flooramigo.com/frisco-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local planning context
