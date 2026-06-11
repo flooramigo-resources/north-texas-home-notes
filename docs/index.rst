@@ -26,3 +26,4 @@ A small public documentation set for home project planning notes.
    sachse-tx-guia-costo-instalacion-pisos-vinilicos
    richardson-tx-vinyl-flooring-installation-cost-guide
    richardson-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+   rowlett-tx-vinyl-flooring-installation-cost-guide
