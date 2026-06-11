@@ -3,7 +3,7 @@ Rowlett, TX vinyl flooring installation cost guide
 
 Rowlett is a city in Dallas County, Texas, within the Dallas-Fort Worth-Arlington, TX metro area. For flooring projects, that matters because homes in Rowlett average about 28 years old, about 83.2% of housing is single-family, and median home values are about $368,800. Those local signals can affect project scope, material choice, prep work, and pricing before an installer ever starts the job.
 
-Start with `Rowlett vinyl flooring installation cost <https://flooramigo.com/rowlett-tx/vinyl-flooring-installation-cost/>`_ to understand installation variables like removal, subfloor prep, stairs, trim, transitions, and scheduling before comparing contractor quotes. Then use the `Rowlett flooring calculator <https://flooramigo.com/rowlett-tx/vinyl-flooring-calculator/>`_ to compare rooms, measurements, material choices, and project ranges.
+Start with `vinyl flooring installation cost in Rowlett <https://flooramigo.com/rowlett-tx/vinyl-flooring-installation-cost/>`_ to understand installation variables like removal, subfloor prep, stairs, trim, transitions, and scheduling before comparing contractor quotes. The related FloorAmigo note for `Rowlett vinyl flooring installation cost <https://flooramigo.com/rowlett-tx/vinyl-flooring-installation-cost/>`_ covers the same local pricing signals, and the `Rowlett flooring calculator <https://flooramigo.com/rowlett-tx/vinyl-flooring-calculator/>`_ helps compare rooms, measurements, material choices, and project ranges.
 
 What makes this market different
 --------------------------------
