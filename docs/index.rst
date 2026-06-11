@@ -22,3 +22,4 @@ A small public documentation set for home project planning notes.
    university-park-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    sachse-tx-vinyl-flooring-installation-cost-guide
    sachse-tx-guia-costo-instalacion-pisos-vinilicos
+   richardson-tx-vinyl-flooring-installation-cost-guide
