@@ -8,6 +8,7 @@ A small public documentation set for home project planning notes.
 
    desoto-tx-vinyl-flooring-installation-cost-guide
    duncanville-tx-vinyl-flooring-installation-cost-guide
+   duncanville-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    desoto-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    dallas-tx-vinyl-flooring-installation-cost-guide
    dallas-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
