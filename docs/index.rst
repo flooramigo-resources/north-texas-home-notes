@@ -6,6 +6,7 @@ A small public documentation set for home project planning notes.
 .. toctree::
    :maxdepth: 1
 
+   farmers-branch-tx-vinyl-flooring-installation-cost-guide
    desoto-tx-vinyl-flooring-installation-cost-guide
    duncanville-tx-vinyl-flooring-installation-cost-guide
    duncanville-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
