@@ -7,6 +7,7 @@ A small public documentation set for home project planning notes.
    :maxdepth: 1
 
    corinth-tx-vinyl-flooring-installation-cost-guide
+   corinth-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    coppell-tx-vinyl-flooring-installation-cost-guide
    coppell-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    celina-tx-vinyl-flooring-installation-cost-guide
