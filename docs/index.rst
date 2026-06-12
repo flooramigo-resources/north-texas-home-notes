@@ -38,3 +38,4 @@ A small public documentation set for home project planning notes.
    lakewood-village-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    mckinney-tx-vinyl-flooring-installation-cost-guide
    mckinney-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+   mesquite-tx-vinyl-flooring-installation-cost-guide
