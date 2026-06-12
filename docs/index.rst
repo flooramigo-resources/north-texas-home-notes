@@ -36,3 +36,4 @@ A small public documentation set for home project planning notes.
    prosper-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    lakewood-village-tx-vinyl-flooring-installation-cost-guide
    lakewood-village-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+   mckinney-tx-vinyl-flooring-installation-cost-guide
