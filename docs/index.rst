@@ -7,6 +7,7 @@ A small public documentation set for home project planning notes.
    :maxdepth: 1
 
    farmers-branch-tx-vinyl-flooring-installation-cost-guide
+   farmers-branch-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    desoto-tx-vinyl-flooring-installation-cost-guide
    duncanville-tx-vinyl-flooring-installation-cost-guide
    duncanville-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
