@@ -6,6 +6,7 @@ A small public documentation set for home project planning notes.
 .. toctree::
    :maxdepth: 1
 
+   celina-tx-vinyl-flooring-installation-cost-guide
    carrollton-tx-vinyl-flooring-installation-cost-guide
    carrollton-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    blue-ridge-tx-vinyl-flooring-installation-cost-guide
