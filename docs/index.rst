@@ -7,6 +7,7 @@ A small public documentation set for home project planning notes.
    :maxdepth: 1
 
    blue-ridge-tx-vinyl-flooring-installation-cost-guide
+   blue-ridge-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    rockwall-tx-vinyl-flooring-installation-cost-guide
    rockwall-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    garland-tx-vinyl-flooring-installation-cost-guide
