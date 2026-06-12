@@ -6,6 +6,7 @@ A small public documentation set for home project planning notes.
 .. toctree::
    :maxdepth: 1
 
+   desoto-tx-vinyl-flooring-installation-cost-guide
    dallas-tx-vinyl-flooring-installation-cost-guide
    dallas-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    corinth-tx-vinyl-flooring-installation-cost-guide
