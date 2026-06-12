@@ -6,6 +6,7 @@ A small public documentation set for home project planning notes.
 .. toctree::
    :maxdepth: 1
 
+   highland-village-tx-vinyl-flooring-installation-cost-guide
    farmers-branch-tx-vinyl-flooring-installation-cost-guide
    farmers-branch-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    desoto-tx-vinyl-flooring-installation-cost-guide
