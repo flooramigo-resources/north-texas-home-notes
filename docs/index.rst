@@ -77,3 +77,4 @@ A small public documentation set for home project planning notes.
    balch-springs-tx-vinyl-flooring-installation-cost-guide
    balch-springs-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    sherman-tx-vinyl-flooring-installation-cost-guide
+   sherman-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
