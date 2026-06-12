@@ -28,3 +28,4 @@ A small public documentation set for home project planning notes.
    richardson-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    rowlett-tx-vinyl-flooring-installation-cost-guide
    rowlett-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+   murphy-tx-vinyl-flooring-installation-cost-guide
