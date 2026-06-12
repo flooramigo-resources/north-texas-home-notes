@@ -33,3 +33,4 @@ A small public documentation set for home project planning notes.
    plano-tx-vinyl-flooring-installation-cost-guide
    plano-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    prosper-tx-vinyl-flooring-installation-cost-guide
+   prosper-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
