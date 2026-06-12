@@ -41,3 +41,4 @@ A small public documentation set for home project planning notes.
    mesquite-tx-vinyl-flooring-installation-cost-guide
    mesquite-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    lancaster-tx-vinyl-flooring-installation-cost-guide
+   lancaster-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
