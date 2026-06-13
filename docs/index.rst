@@ -79,3 +79,4 @@ A small public documentation set for home project planning notes.
    sherman-tx-vinyl-flooring-installation-cost-guide
    sherman-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    waxahachie-tx-vinyl-flooring-installation-cost-guide
+   waxahachie-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
