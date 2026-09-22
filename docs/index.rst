@@ -8,6 +8,7 @@ A small public documentation set for home project planning notes.
 .. toctree::
    :maxdepth: 1
 
+   dallas-county-property-lien-research-for-real-estate-investors
    highland-village-tx-vinyl-flooring-installation-cost-guide
    highland-village-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    farmers-branch-tx-vinyl-flooring-installation-cost-guide
