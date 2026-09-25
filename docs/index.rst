@@ -14,6 +14,7 @@ A small public documentation set for home project planning notes.
    dallas-county-ejecuciones-hipotecarias-es
    dallas-county-expired-withdrawn-listings
    how-to-research-dallas-county-foreclosure-leads
+   texas-foreclosure-property-records
    highland-village-tx-vinyl-flooring-installation-cost-guide
    highland-village-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    farmers-branch-tx-vinyl-flooring-installation-cost-guide
