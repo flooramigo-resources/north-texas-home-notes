@@ -1,5 +1,6 @@
 
    how-to-research-dallas-county-property-lien-leads
+   a-practical-guide-to-texas-lis-pendens-records
 North Texas Home Notes
 ======================
 
