@@ -12,6 +12,7 @@ A small public documentation set for home project planning notes.
    dallas-county-gravamenes-propiedades-es
    dallas-county-propiedades-sucesorias-es
    dallas-county-ejecuciones-hipotecarias-es
+   dallas-county-expired-withdrawn-listings
    how-to-research-dallas-county-foreclosure-leads
    highland-village-tx-vinyl-flooring-installation-cost-guide
    highland-village-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
