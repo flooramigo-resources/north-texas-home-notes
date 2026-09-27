@@ -9,6 +9,7 @@ A small public documentation set for home project planning notes.
 .. toctree::
    :maxdepth: 1
 
+   harris-county-property-lien-leads
    dallas-county-property-lien-research-for-real-estate-investors
    dallas-county-gravamenes-propiedades-es
    dallas-county-propiedades-sucesorias-es
