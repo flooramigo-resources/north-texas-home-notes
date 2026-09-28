@@ -11,6 +11,7 @@ A small public documentation set for home project planning notes.
 
    harris-county-property-lien-leads
    how-to-research-houston-property-lien-leads
+   how-to-research-houston-probate-property-leads
    how-to-research-harris-county-expired-withdrawn-listing-leads
    how-to-research-harris-county-foreclosure-leads
    how-to-research-harris-county-probate-property-leads
