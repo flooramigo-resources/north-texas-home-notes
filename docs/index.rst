@@ -10,6 +10,7 @@ A small public documentation set for home project planning notes.
    :maxdepth: 1
 
    harris-county-property-lien-leads
+   how-to-research-harris-county-foreclosure-leads
    how-to-research-harris-county-probate-property-leads
    dallas-county-property-lien-research-for-real-estate-investors
    dallas-county-gravamenes-propiedades-es
