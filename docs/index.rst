@@ -108,3 +108,4 @@ A small public documentation set for home project planning notes.
    gravamenes-propiedades-texas-es
    propiedades-con-impuestos-atrasados-texas-es
    divorcio-propiedades-texas-es
+   registros-propiedades-sucesorias-texas-es-20260929
